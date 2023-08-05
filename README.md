@@ -31,7 +31,7 @@ Wireframe for Project: https://app.uizard.io/p/724d5568
 
 ![LOGIN PAGE](Images/login.PNG)
 
-![LOGIN PAGE 2](Images/login 2.PNG)
+![LOGIN PAGE 2](Images/login_2.PNG)
 
 ![MEMBER PAGE](Images/member_data.PNG)
 
