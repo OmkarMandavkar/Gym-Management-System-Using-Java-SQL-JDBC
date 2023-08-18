@@ -29,13 +29,11 @@ Wireframe for Project: https://app.uizard.io/p/724d5568
 
 ## Screenshots
 
-![LOGIN PAGE](Images/login.PNG)
+![LOGIN PAGE](Images/LoginPage.PNG)
 
-![LOGIN PAGE 2](Images/login_2.PNG)
+![MEMBER PAGE](Images/MemberPage.PNG)
 
-![MEMBER PAGE](Images/member_data.PNG)
-
-![TRAINER PAGE](Images/trainer_data.PNG)
+![TRAINER PAGE](Images/TrainerPage.PNG)
 
 
 ## Support
